@@ -4,4 +4,5 @@ class App < Sinatra::Base
 
   get '/newteam' do
   end
+  
 end
